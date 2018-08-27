@@ -1,0 +1,82 @@
+h1{
+	color: rgb(251, 116, 218);
+	font-size: 400%;
+
+	line-height: 1.6;
+	text-align: center;
+	min-height: 90px;
+    min-width: 90px; 
+  
+}
+h3{
+	text-align: center;
+	font-size: 180%;
+	line-height: 1;
+	min-height: 10px;
+    min-width: 10px; 
+    top: 70px;
+    margin-top: -100px
+	
+}
+#bitmoji{
+	text-align: left;
+ 	position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 6%;
+    width: 4%;
+  	min-height: 20px;
+    min-width: 50px; 
+  
+    
+}
+#days{
+	color: rgb(251, 116, 218);
+
+
+}
+#calender{
+	height: 80%;
+    width: 80%;
+    position: relative;
+    text-align: center;
+    left: 10%; top: 50%
+}
+#first{
+	
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-157%, 70%);
+  -ms-transform: translate(-1000%, -50%);
+  background-color: rgb(251, 116, 218);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+}
+body {
+	text-align: center;
+	line-height: normal;
+}
+hr {
+   display: block;
+   margin-top: -45px;
+   margin-bottom: 0.5em;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: inset;
+   border-width: 10px;
+   
+} 
+#initial{
+	 margin-top: -45px;}
+
+
+h4{
+	text-align: center;
+}	 
+	

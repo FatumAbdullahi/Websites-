@@ -1,0 +1,19 @@
+body{
+  background:#000;
+}
+.space{
+  position:relative;
+  padding:50px;
+  margin: -2px 20px;
+}
+.circle{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  border-radius:50%;
+  position:relative;
+  z-index:0;
+}
+.circle:hover{
+  z-index:100000/*!important*/;
+}
